@@ -7,4 +7,5 @@
   text-transform: uppercase;
   margin-left: 16px;
   margin-top: 9px;
+  align-self: flex-start;
 }
