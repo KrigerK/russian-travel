@@ -1,4 +1,6 @@
 .intro {
-  margin-top: 64px;
-  margin-left: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+  width: calc(100% - 2*16px);
 }

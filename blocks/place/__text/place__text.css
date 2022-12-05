@@ -1,0 +1,9 @@
+.place__text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.63;
+  margin: 0;
+  width: calc(100% - 2*16px);
+  display: grid;
+  gap: 25px;
+}
