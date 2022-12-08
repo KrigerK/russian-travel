@@ -9,3 +9,20 @@
   margin: 0;
 
 }
+
+@media screen and (min-width: 768px) {
+  .cover__text {
+    max-width: 288px;
+}
+}
+
+@media screen and (min-width: 1024px) {
+  .cover__text {
+    max-width: 560px;
+}
+}
+
+@media screen and (min-width: 1280px) {
+  .cover__text {
+  max-width: 560px;
+}
