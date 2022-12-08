@@ -10,7 +10,7 @@
 
 @import url(../blocks/main/main.css);
 @import url(../blocks/main/__section-margin/main__section-margin.css);
-@import url(../blocks/opacity/opacity.css);
+@import url(../blocks/main/__opacity/main__opacity.css);
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
@@ -40,9 +40,11 @@
 @import url(../blocks/cover/__text/cover__text.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/cover/__link/cover__link.css);
 
 @import url(../blocks/menu/menu.css);
 @import url(../blocks/menu/__links/menu__links.css);
+@import url(../blocks/menu/__link/menu__link.css);
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);

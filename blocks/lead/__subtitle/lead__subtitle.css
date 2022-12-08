@@ -6,3 +6,32 @@
   margin: 16px 0 0 ;
   width: calc(100% - 2*16px);
 }
+
+@media screen and (min-width: 560px) {
+  .lead__subtitle {
+  font-size: 24px;
+  max-width: 400px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .lead__subtitle {
+    font-size: 30px;
+    line-height: 1.2;
+    width: calc(100% - 2*64px);
+    margin: 32px 0 0;
+    max-width: 640px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lead__subtitle {
+    width: calc(100% - 2*144px);
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__subtitle {
+    width: calc(100% - 2*172px);
+  }
+}

@@ -1,3 +1,21 @@
 .footer {
-  margin: 64px 16px;
+  margin-left: 16px;
+  margin-bottom: 24px;
+}
+
+@media screen and (min-width: 768px) {
+  .footer {
+    display: grid;
+    grid-auto-flow: column;
+    justify-items: start;
+    align-items: center;
+    width: calc(100% - 2*24px);
+    margin-left: auto;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .footer {
+    width: calc(100% - 2*48px);
+  }
 }
