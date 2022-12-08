@@ -1,0 +1,6 @@
+@media (any-hover: hover) {
+  .main_opacity:hover {
+    opacity: 0.8;
+  }
+
+}
