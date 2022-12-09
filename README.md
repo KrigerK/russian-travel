@@ -11,4 +11,4 @@
 
 ##  Где посмотреть эту красоту
 
-https://github.com/KrigerK/russian-travel.git
+https://krigerk.github.io/russian-travel/

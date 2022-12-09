@@ -1,0 +1,15 @@
+.lead__cover-block {
+  margin: 40px 0 0;
+}
+
+@media screen and (min-width: 768px) {
+  .lead__cover-block {
+    margin: 56px 0 0;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__cover-block {
+    margin: 64px 0 0;
+  }
+}
