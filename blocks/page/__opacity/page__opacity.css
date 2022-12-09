@@ -1,5 +1,5 @@
 @media (any-hover:hover){
-  .main__opacity:hover {
+  .page__opacity:hover {
     opacity: 0.8;
   }
 }

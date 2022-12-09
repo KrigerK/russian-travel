@@ -2,6 +2,8 @@
 @import url(../vendor/normalize.css);
 
 @import url(../blocks/page/page.css);
+@import url(../blocks/page/__opacity/page__opacity.css);
+@import url(../blocks/page/__section-margin/page__section-margin.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/header__lang-block/header__lang-block.css);
@@ -9,8 +11,6 @@
 @import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 
 @import url(../blocks/main/main.css);
-@import url(../blocks/main/__section-margin/main__section-margin.css);
-@import url(../blocks/main/__opacity/main__opacity.css);
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
